@@ -1,0 +1,94 @@
+Existen dos formas de programacion
+
+1)Programacion orientada a procedimientos
+En lenguajes viejos (fortran, cobol, basic, etc), se producian muchos errores y la comunidad de desarrolladores
+tuvieron la iniciativa para solventar dicho problema, y es cuando nace la POO
+
+Problemas:
+Codigos muy grandes en aplicaciones complejas
+Dificil de descifrar
+Poco reutilizable
+Si existe un fallo, era muy probable que el programa cayera
+Codigo espagueti
+Dificil de depurar por otros programadores en caso de necesidad o error
+
+2)Programacion orientada a objetos
+Aqui se traslada la naturaleza de los objetos de la vida real al codigo de programacion
+
+Cual naturaleza?
+Los objetos tienen un estado, un comportamiento(que puedo hacer?), y unas propiedades
+
+Ejemplo:
+
+El objeto coche
+****************
+Cual es el estado de un coche? --> Un coche puede estar detenido, circulando, aparcado, etc.
+Que propiedad tiene un coche? --> Un coche tiene un color, un peso, un tamaño, etc.
+Que comportamiento tiene un coche? --> Un coche puede arrancar, frenar, acelerar, girar, etc.
+
+Ventajas:
+Podemos dividirlos en trozos, partes, modulos o clases. ESTO SE PRODUCE LA MODULARIZACION.
+Es reutilizable y se da la HERENCIA.
+Si existe un fallo, el programa continuará su funcionamiento, tratando las excepciones.
+Encapsulamiento.
+
+Vocabulario POO
+****************
+Clase
+Es el modelo donde se redactan las caracteristicas comunes de un grupo de objetos.
+Es como una plantilla.
+Ejemplo:
+un coche, comparte cosas en comun como chasis, ruedas, motor, ascientos, etc
+
+Objeto
+Son los que derivan de la clase o plantilla.
+Ejemplo:
+Dos coches de marcas diferentes, comparten caracteristicas comunes, pero cada uno
+tienen propias caracteristicas que los hace diferentes entre ellos, como tener
+diferente color, diferente tamaño, etc
+
+Los objetos tienen: 
+
+propiedades (atributos)
+	color, peso, alto, largo, etc
+
+nombreObjeto.propiedad = valor;
+
+ejemplo:
+Renault.color = "rojo";
+Renault.peso = 1500;
+
+comportamiento (metodo o funcion)
+	arrancar, frenar, girar, acelerar, etc
+
+nombreObjeto.metodo();
+
+ejemplo:
+Renault.arrancar();
+Renault.frenar();
+
+Ejemplar de clase/Instancia de clase/Ejemplarizar una clase/Instanciar una clase
+Modularizacion
+
+Encapsulamiento/encapsulacion
+Es para que no se pueda acceder a los datos desde otra clase externa a menos que sea necesario
+
+Convenciones
+*************
+los identificadores public deben comenzar con letra mayuscula
+notacion PascalCase: public double CalculoArea(){....}
+
+los identificadores que no son public, deben empezar con minuscula
+notacion camelCase: longitudRadio
+Herencia
+Polimorfismo
+
+Modificadores de acceso
+************************
+public: accesible desde cualquier parte
+private: accesible desde la propia clase
+protected: accesible desde clase derivada
+internal: accesible desde el mismo ensamblado
+protected internal: accesible desde el mismo ensamblado o clase derivada de otro ensamblado
+private protected: accesible desde la misma clase o clase derivada del mismo ensamblado
+por defecto: accesible desde el mismo paquete

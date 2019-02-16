@@ -1,0 +1,1 @@
+Hola a todos, esto es un ejemplo para el uso de finaly
