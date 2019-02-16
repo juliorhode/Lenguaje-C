@@ -1,0 +1,7 @@
+D:\Proyectos\GitHub\C#\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe.config
+D:\Proyectos\GitHub\C#\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe
+D:\Proyectos\GitHub\C#\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.pdb
+D:\Proyectos\GitHub\C#\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csprojAssemblyReference.cache
+D:\Proyectos\GitHub\C#\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+D:\Proyectos\GitHub\C#\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
+D:\Proyectos\GitHub\C#\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb

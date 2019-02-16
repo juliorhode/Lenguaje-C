@@ -1,0 +1,6 @@
+D:\Proyectos\GitHub\C#\Bucle_While\Bucle_While\bin\Debug\Bucle_While.exe.config
+D:\Proyectos\GitHub\C#\Bucle_While\Bucle_While\bin\Debug\Bucle_While.exe
+D:\Proyectos\GitHub\C#\Bucle_While\Bucle_While\bin\Debug\Bucle_While.pdb
+D:\Proyectos\GitHub\C#\Bucle_While\Bucle_While\obj\Debug\Bucle_While.csproj.CoreCompileInputs.cache
+D:\Proyectos\GitHub\C#\Bucle_While\Bucle_While\obj\Debug\Bucle_While.exe
+D:\Proyectos\GitHub\C#\Bucle_While\Bucle_While\obj\Debug\Bucle_While.pdb

@@ -1,0 +1,6 @@
+D:\Proyectos\GitHub\C#\Condicional_If\Condicional_If\bin\Debug\Condicional_If.exe.config
+D:\Proyectos\GitHub\C#\Condicional_If\Condicional_If\bin\Debug\Condicional_If.exe
+D:\Proyectos\GitHub\C#\Condicional_If\Condicional_If\bin\Debug\Condicional_If.pdb
+D:\Proyectos\GitHub\C#\Condicional_If\Condicional_If\obj\Debug\Condicional_If.csproj.CoreCompileInputs.cache
+D:\Proyectos\GitHub\C#\Condicional_If\Condicional_If\obj\Debug\Condicional_If.exe
+D:\Proyectos\GitHub\C#\Condicional_If\Condicional_If\obj\Debug\Condicional_If.pdb

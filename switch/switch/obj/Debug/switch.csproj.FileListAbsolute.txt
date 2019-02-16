@@ -1,0 +1,6 @@
+D:\Proyectos\GitHub\C#\switch\switch\bin\Debug\@switch.exe.config
+D:\Proyectos\GitHub\C#\switch\switch\bin\Debug\@switch.exe
+D:\Proyectos\GitHub\C#\switch\switch\bin\Debug\@switch.pdb
+D:\Proyectos\GitHub\C#\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+D:\Proyectos\GitHub\C#\switch\switch\obj\Debug\@switch.exe
+D:\Proyectos\GitHub\C#\switch\switch\obj\Debug\@switch.pdb

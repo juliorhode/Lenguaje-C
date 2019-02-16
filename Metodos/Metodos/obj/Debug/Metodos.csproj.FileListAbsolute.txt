@@ -1,0 +1,7 @@
+D:\Proyectos\GitHub\C#\Metodos\Metodos\bin\Debug\Metodos.exe.config
+D:\Proyectos\GitHub\C#\Metodos\Metodos\bin\Debug\Metodos.exe
+D:\Proyectos\GitHub\C#\Metodos\Metodos\bin\Debug\Metodos.pdb
+D:\Proyectos\GitHub\C#\Metodos\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
+D:\Proyectos\GitHub\C#\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+D:\Proyectos\GitHub\C#\Metodos\Metodos\obj\Debug\Metodos.exe
+D:\Proyectos\GitHub\C#\Metodos\Metodos\obj\Debug\Metodos.pdb
