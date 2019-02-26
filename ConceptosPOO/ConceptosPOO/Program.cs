@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//Para usar los metodos sin necesidad de colocar la clase antes del metodo
+//using static System.Math;
+//using static System.Console;
 
 namespace ConceptosPOO
 {
@@ -10,7 +13,24 @@ namespace ConceptosPOO
     {
         static void Main(string[] args)
         {
-            realizarTarea();
+            //realizarTarea();
+
+                            //          clase anonima        //
+            var miVarible = new { Nombre = "Julio", edad = 19 };
+            Console.WriteLine(miVarible.Nombre + " " + miVarible.edad);
+            var miOtraVariable = new { Nombre = "Cesar", edad = 13 };
+            miVarible = miOtraVariable;
+            Console.WriteLine(miVarible.Nombre + " " + miVarible.edad);
+            /************************************************
+             * CLASES ANONIMAS
+             * ----------------
+             * Solo pueden contener campos publicos
+             * Todos los campos deben estar iniciados
+             * Los campos no pueden ser static
+             * No se pueden definir metodos
+             * 
+             ************************************************/
+
         }
 
         static void realizarTarea()

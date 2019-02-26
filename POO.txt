@@ -92,3 +92,4 @@ internal: accesible desde el mismo ensamblado
 protected internal: accesible desde el mismo ensamblado o clase derivada de otro ensamblado
 private protected: accesible desde la misma clase o clase derivada del mismo ensamblado
 por defecto: accesible desde el mismo paquete
+
