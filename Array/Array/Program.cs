@@ -54,7 +54,28 @@ namespace Array
                 Console.WriteLine(valores[i]);
             }
 
-            
+            /*
+            for (int i = 0; i < arrayEmpleado.Length; i++)
+            {
+                Console.WriteLine(arrayEmpleado[i].getInfo()); 
+            }
+            */
+            foreach (Empleados emp in arrayEmpleado)
+            {
+                Console.WriteLine(emp.getInfo());
+            }
+
+            foreach (double item in valores)
+            {
+                Console.WriteLine(item);
+
+            }
+
+            foreach (var a in personas)
+            {
+                Console.WriteLine(a);
+            }
+
         }
     }
 
@@ -66,7 +87,12 @@ namespace Array
             this.edad = edad;
         }
 
-        String nombre;
-        int edad;
+        public String getInfo()
+        {
+            return "Nombre del empleado: " + nombre + "\nEdad: " + edad;
+        }
+
+        private String nombre;
+        private int edad;
     }
 }
